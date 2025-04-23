@@ -1,3 +1,5 @@
+![LibreOffice Header](https://it.libreoffice.org/themes/libreofficenew/img/discover_.jpg)
+
 # LibreOffice Upgrader
 
 ## Overview
@@ -127,5 +129,5 @@ In case of problems with script execution via GPO:
 ## Support
 
 For assistance, contact:
-**Email**: lorenzo.lione@gmail.com
+**Email**: lorenzo.lione gmail.com
 **Extension**: 2025
